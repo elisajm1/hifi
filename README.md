@@ -1,4 +1,4 @@
-# hifi
+# hifi (Figma)
 Hi-fi project
 / Linkki työhön: https://www.figma.com/proto/eKypA1rMkeqjS4oHH9f22T/Projekti?node-id=6-86&starting-point-node-id=6%3A86&t=DTxnmt2aGiqbx1cv-1
 
